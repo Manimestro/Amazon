@@ -1,0 +1,30 @@
+.Notes{
+    background-color: green;
+}
+.eachBlock{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border: 1px solid green;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.Block{
+    display: flex;
+ 
+    
+}
+.eachBlock>p{
+    margin-left: 20px;
+}
+.makeCenter{
+    text-align: center;
+    border: 3px solid red;
+   
+}
+.styler{
+    display: flex;
+    border: 1px solid green;
+    justify-content: space-around;
+}
